@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="216pt" viewBox="0 0 245 216" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L0 216 L244.001 216 L244.001 0 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+ </defs>
+ <g id="Fond de page">
+  <g id="Groupe 1" clip-path="url(#Clip0)">
+   <path style="fill:#0075b1; fill-rule:nonzero;stroke:none;" d="M200.001 0 L15.9443 0 C7.14453 0 0 6.97656 0 15.5625 L0 200.414 C0 209.016 7.14453 216 15.9443 216 L200.001 216 C208.81 216 216 209.016 216 200.414 L216 15.5625 C216 6.97656 208.81 0 200.001 0 Z" transform="translate(0, 0)"/>
+   <path style="fill:#ffffff; fill-rule:nonzero;stroke:none;" d="M18.5703 0 C28.8125 0 37.1367 8.3242 37.1367 18.5703 C37.1367 28.8281 28.8125 37.1523 18.5703 37.1523 C8.3008 37.1523 0 28.8281 0 18.5703 C0 8.3242 8.3008 0 18.5703 0 Z M2.543 51.2461 L34.5937 51.2461 L34.5937 154.325 L2.543 154.325 L2.543 51.2461 Z" transform="translate(29.4668, 29.7383)"/>
+   <path style="fill:#ffffff; fill-rule:nonzero;stroke:none;" d="M0 2.5703 L30.7347 2.5703 L30.7347 16.6484 L31.1717 16.6484 C35.4497 8.5468 45.9027 0 61.4887 0 C93.9067 0 99.8947 21.3437 99.8947 49.1089 L99.8947 105.649 L67.8947 105.649 L67.8947 55.5239 C67.8947 43.5629 67.6597 28.1879 51.2417 28.1879 C34.5707 28.1879 32.0277 41.2109 32.0277 54.6559 L32.0277 105.649 L0 105.649 L0 2.5703 Z" transform="translate(84.1543, 78.4141)"/>
+   <path style="fill:#161413; fill-rule:nonzero;stroke:none;" d="M0 1.672 L3.078 1.672 L3.078 11.266 L4.75 11.266 L4.75 1.672 L7.82 1.672 L7.82 0 L0 0 L0 1.672 Z" transform="translate(222.923, 172.797)"/>
+   <path style="fill:#161413; fill-rule:nonzero;stroke:none;" d="M8.949 0 L5.664 8.266 L2.383 0 L0 0 L0 11.266 L1.664 11.266 L1.664 2.695 L5.109 11.266 L6.223 11.266 L9.668 2.695 L9.668 11.266 L11.332 11.266 L11.332 0 L8.949 0 Z" transform="translate(232.669, 172.797)"/>
+  </g>
+ </g>
+</svg>
